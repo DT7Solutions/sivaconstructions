@@ -815,6 +815,7 @@ body, .banner-area,
 
 .top-bar-area a {
   font-size: 16px;
+  text-transform: uppercase;
 }
 
 .top-address li i {
