@@ -226,7 +226,7 @@ input {
 }
 
 .bg-theme {
-  background-color: #fcdb16;
+  background-color: #955539;
 }
 
 .text-light h1, 
@@ -405,7 +405,7 @@ input {
 
 .btn.btn-light.effect:hover, 
  .btn.btn-light.effect:focus {
-  background-color: #fcdb16;
+  background-color: #b99e03;
   color: #ffffff !important;
   border: 2px solid #fcdb16;
 }
@@ -3972,7 +3972,7 @@ nav.bootsnav.navbar-default.info-topbar.sticked ul li a {
   background: #f3f6f8 none repeat scroll 0 0;
   border-right: 1px solid #ffffff;
   display: table-cell;
-  padding: 65px 30px;
+  /* padding: 65px 30px; */
   text-align: center;
   transition: all 0.5s ease-in-out 0s;
   -webkit-transition: all 0.5s ease-in-out 0s;
@@ -4901,3 +4901,29 @@ footer .f-item.newsletter form .input-group-addon button {
   text-align: center;
 }
  
+.footer-address{
+ align-items: center;
+}
+.footer-address li a{
+  list-style: none;
+
+}
+
+.footer-links{
+  display: flex;
+}
+.footer-links li{
+  padding-left: 15px;
+
+}
+.footer-links li a i{
+  font-size: 20px;
+}
+
+.member-credai{
+  align-items: center;
+ display: flex;
+}
+.amenities h4{
+  margin-top: 10px;
+}
